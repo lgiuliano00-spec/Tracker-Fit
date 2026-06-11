@@ -1,4 +1,4 @@
-const CACHE_NAME = 'tracker-luca-v1';
+const CACHE_NAME = 'tracker-luca-v6';
 const ASSETS = [
   './',
   './index.html',
